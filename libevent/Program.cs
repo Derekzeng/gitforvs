@@ -10,6 +10,7 @@ namespace libevent
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("just be now.");
         }
     }
 }
