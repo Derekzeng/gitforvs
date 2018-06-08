@@ -1,2 +1,0 @@
-# gitforvs
-visual studio demostration.
